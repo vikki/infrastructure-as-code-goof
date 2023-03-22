@@ -1,4 +1,4 @@
-# Infrastructure as Code Goof
+# Infrastructure as Code Goof - test 123
 This repo consists of vulnerable configuration files, split per configuration type. 
 The files contain various vulnerabilities which Snyk Infrastructure as Code can identify, as well as scripts for setting up demo environments to educate about the challenges and potential security issues in the Infrastructure as Code world.
 
